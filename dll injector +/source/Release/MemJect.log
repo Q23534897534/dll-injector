@@ -1,0 +1,11 @@
+﻿D:\Visualstudio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: Das Zwischenverzeichnis (Release\) enthält freigegebene Dateien aus einem anderen Projekt (MemJect.vcxproj). Dies kann zu einem falschen Bereinigungs- und Neuerstellungsverhalten führen.
+  main.c
+C:\Users\julio\Desktop\dll injector +\MemJect\main.c(20,1): warning C4305: "Initialisierung": Verkürzung von "int" in "const uint8_t"
+C:\Users\julio\Desktop\dll injector +\MemJect\main.c(172,100): warning C4474: "sprintf_s": zu viele Argumente für Formatzeichenfolge übergeben
+C:\Users\julio\Desktop\dll injector +\MemJect\main.c(172,100): message : Platzhalter und deren Parameter erwarten 0 variadic-Argumente, es wurden aber 2 variadic-Argumente bereitgestellt.
+  Code wird generiert.
+  5 of 6 functions (83.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  MemJect.vcxproj -> C:\Users\julio\Desktop\dll injector +\Release\Aquarius.exe.exe
